@@ -1,6 +1,7 @@
 # react-redit
 
 This is a Commenting Tool implemented with React.js and TypeScript. It's main goal is to display a block with comments with threads.
+
 [Live Demo](https://react-redit.netlify.app/)
 
 To install all the dependencies run
