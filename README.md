@@ -1,6 +1,6 @@
 # react-redit
 
-This is a Commenting Tool implemented with Reeact.js and TypeScript.
+This is a Commenting Tool implemented with React.js and TypeScript. It's main goal is to display a block with comments with threads.
 
 To install all the dependencies run
 
